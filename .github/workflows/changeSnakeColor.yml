@@ -1,0 +1,15 @@
+name: Chance color snk github
+on:
+  push:
+    branches: [ output ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "purple"
+          replace: "blue"
+          regex: true
