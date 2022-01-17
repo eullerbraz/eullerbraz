@@ -8,6 +8,6 @@ jobs:
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "purple"
-          replace: "blue"
+          find: "--cs:purple"
+          replace: "--cs:red"
           regex: true
