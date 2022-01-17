@@ -11,4 +11,3 @@ jobs:
           find: "--cs:purple"
           replace: "--cs:red"
           include: "**github-contribution-grid-snake.svg"
-          regex: true
