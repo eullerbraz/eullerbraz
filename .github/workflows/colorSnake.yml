@@ -1,4 +1,4 @@
-name: Chance color snk github
+name: Change color snk github
 on: [push, pull_request]
 jobs:
   build:
