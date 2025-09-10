@@ -1,4 +1,4 @@
-## Olá, me chamo Euller Braz e sou estudante de Desenvolvimento Web!!!
+## Olá, me chamo Euller Braz e Desenvolvedor de Software!!!
 <div align="center">
   <a href="https://github.com/eullerbraz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eullerbraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img align="center" alt="mysql-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="mongodb-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="nodejs-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="expressjs-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="flutter-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
   
   ##
